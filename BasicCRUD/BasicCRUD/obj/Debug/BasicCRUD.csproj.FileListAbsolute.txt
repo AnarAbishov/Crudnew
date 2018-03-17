@@ -1,0 +1,14 @@
+C:\Users\Samir\source\repos\BasicCRUD\BasicCRUD\bin\Debug\BasicCRUD.exe.config
+C:\Users\Samir\source\repos\BasicCRUD\BasicCRUD\bin\Debug\BasicCRUD.exe
+C:\Users\Samir\source\repos\BasicCRUD\BasicCRUD\bin\Debug\BasicCRUD.pdb
+C:\Users\Samir\source\repos\BasicCRUD\BasicCRUD\obj\Debug\BasicCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Samir\source\repos\BasicCRUD\BasicCRUD\obj\Debug\BasicCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\BasicCRUD\BasicCRUD\obj\Debug\BasicCRUD.exe
+C:\Users\Samir\source\repos\BasicCRUD\BasicCRUD\obj\Debug\BasicCRUD.pdb
+C:\Users\P503\Desktop\BasicCRUD\BasicCRUD\bin\Debug\BasicCRUD.exe.config
+C:\Users\P503\Desktop\BasicCRUD\BasicCRUD\bin\Debug\BasicCRUD.exe
+C:\Users\P503\Desktop\BasicCRUD\BasicCRUD\bin\Debug\BasicCRUD.pdb
+C:\Users\P503\Desktop\BasicCRUD\BasicCRUD\obj\Debug\BasicCRUD.csprojResolveAssemblyReference.cache
+C:\Users\P503\Desktop\BasicCRUD\BasicCRUD\obj\Debug\BasicCRUD.csproj.CoreCompileInputs.cache
+C:\Users\P503\Desktop\BasicCRUD\BasicCRUD\obj\Debug\BasicCRUD.exe
+C:\Users\P503\Desktop\BasicCRUD\BasicCRUD\obj\Debug\BasicCRUD.pdb
